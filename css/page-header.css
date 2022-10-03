@@ -1,0 +1,9 @@
+.page-header {
+  display: flex;
+  justify-content: end;
+  gap: 50px;
+  padding-right: 80px;
+  padding-top: 60px;
+  text-decoration: none;
+  font-weight: 600;
+}

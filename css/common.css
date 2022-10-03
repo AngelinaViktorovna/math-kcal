@@ -1,0 +1,24 @@
+body {
+  font-family: "Comfortaa", sans-serif;
+  font-size: 17px;
+  background: linear-gradient(to right, #ccff99 0%, #ff99cc 100%);
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: #ccff99;
+  transition: background-color 0.3s;
+}
+
+.limiter {
+  max-width: 1800px;
+  margin: 0 auto;
+}
+
+p {
+  text-align: center;
+}
